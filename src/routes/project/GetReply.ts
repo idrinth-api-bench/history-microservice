@@ -4,6 +4,7 @@ interface GetReply {
       mean: number;
       average: number;
       stdev: number;
+      errors: number;
     },
   },
 }
