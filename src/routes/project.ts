@@ -31,16 +31,19 @@ const routes = async(
           mean: 2323324,
           average: 1324112,
           stdev: 1212,
+          error: 0.2,
         },
         '2024-03-30': {
           mean: 2323324,
           average: 1324112,
           stdev: 1212,
+          error: 0.4,
         },
         '2024-03-31': {
           mean: 2323324,
           average: 1324112,
           stdev: 1212,
+          error: 0.1,
         },
       },
       route2: {
@@ -48,16 +51,19 @@ const routes = async(
           mean: 1323324,
           average: 2324112,
           stdev: 9212,
+          error: 0.9,
         },
         '2024-03-30': {
           mean: 3323324,
           average: 3324112,
           stdev: 6212,
+          error: 0.8,
         },
         '2024-03-31': {
           mean: 2323324,
           average: 2324112,
           stdev: 71212,
+          error: 1,
         },
       },
     },);
