@@ -45,7 +45,7 @@
     "@fastify/rate-limit": "^10.2.2"
   },
   "devDependencies": {
-    "eslint": "^9.18.0",
+    "eslint": "^9.22.0",
     "knip": "^5.43.5",
     "eslint-plugin-fastify-security-rules": "^1.2.0",
     "@types/node": "^22.10.10",
